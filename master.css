@@ -1,0 +1,22 @@
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+.quote {
+  text-align: center;
+}
+.quote p {
+  font-size: 35px;
+}
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+}
+button:hover {
+  background-color: green;
+}
+button:active {
+  border-style: inset;
+}
